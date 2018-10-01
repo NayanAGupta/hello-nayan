@@ -7,7 +7,7 @@ the top button changes the background from pink to orange.
 The app is designed for Andoid 6.0 and is tested on a Pixel running Android 8.0
 
 ### App Walk-though
-<img src="http://recordit.co/PRLbQQB8Hi" width=200><br>
+<img src="https://i.imgur.com/eiSpDk0.gif" width=200><br>
 
 ### Required User Stories
 - [x] 1. User sees custom text in a label - Hello from {name}!
